@@ -1,5 +1,4 @@
 # AdversaryPlaybook
-# ThreatSimForge
 
 ## 🔥 About AdversaryPlaybook
 AdversaryPlaybook is a dedicated repository for **simulating cyber attacks, detecting adversary TTPs, and developing effective countermeasures**. This repository is designed for Blue Teamers, SOC analysts, and threat hunters who want to:
